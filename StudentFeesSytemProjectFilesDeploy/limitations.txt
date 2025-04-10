@@ -1,0 +1,1 @@
+1. locate the db file in D:DEMO.DB
